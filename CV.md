@@ -6,19 +6,21 @@ Representation and processing of semantic/pragmatic information in language, qua
 ### Education
 
 `2018 - now`
-__Ghent University (Belgium)__
-Doctor of Philosophy
+**Doctor of Philosophy**
 Experimental Psychology
+Ghent University (Belgium)
 
 `2017 - 2018`
-__University of Cambridge (United Kingdom)__
-Master of Philosophy 
-Theoretical and Applied Linguistics
+**Master of Philosophy**
+Theoretical and Applied Linguistics (*Graduated with distinction*)
+University of Cambridge (United Kingdom)
 
 `2014 - 2017`
-__University of Groningen (The Netherlands)__
-Bachelor of Arts 
-Dutch Language and Culture
+**Bachelor of Arts** 
+Dutch Language and Culture (*Graduated cum laude*)
+University of Groningen (The Netherlands)
+
+
 
 ### Grants
 `2020` 
