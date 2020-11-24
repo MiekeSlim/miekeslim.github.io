@@ -6,8 +6,11 @@ Representation and processing of semantic/pragmatic information in language, qua
 ### Education
 
 #### 2018 - now
+
 **Doctor of Philosophy**
+
 Experimental Psychology
+
 Ghent University (Belgium)
 
 #### 2017 - 2018
