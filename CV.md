@@ -1,29 +1,17 @@
 # Curriculum Vitae
 
-### Research interests
+#### Research interests
 Representation and processing of semantic/pragmatic information in language, quantification, logic in language, language acquisition, linguistic theory in psycholinguistics
 
-### Education
+#### Education
+### 2018 - 2022 (expected): Doctor of Philosophy
+Experimental Psychology, Ghent University
+### 2017 - 2018: Master of Philosophy
+Theoretical and Applied Linguistics, University of Cambridge (*Graduated with distinction*)
+### 2014 - 2017: Bachelor of Arts
+Dutch Language and Culture, University of Groningen (*Graduated cum laude*)
 
-#### 2018 - now
-
-**Doctor of Philosophy**
-
-Experimental Psychology
-
-Ghent University (Belgium)
-
-#### 2017 - 2018
-**Master of Philosophy**
-Theoretical and Applied Linguistics (*Graduated with distinction*)
-University of Cambridge (United Kingdom)
-
-#### 2014 - 2017
-**Bachelor of Arts** 
-Dutch Language and Culture (*Graduated cum laude*)
-University of Groningen (The Netherlands)
-
-### Grants
+#### Research interests
 `2020` 
 __Fulbright PhD travel grant__
 Fulbright Commission (Fulbright The Netherlands)
