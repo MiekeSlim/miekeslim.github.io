@@ -12,9 +12,9 @@ Ghent University
 Theoretical and Applied Linguistics  
 University of Cambridge 
   
-**2014 - 2017: Bachelor of Arts**  
-Dutch Language and Culture  
-University of Groningen (*Graduated cum laude*)
+**2014 - 2017: Bachelor of Arts** (*Graduated cum laude*) 
+Dutch Language and Culture 
+University of Groningen  
 
 
 ## Grants
