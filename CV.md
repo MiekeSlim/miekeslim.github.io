@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+# Don't mind the mess, this page is still under construction.
+
 ## Research interests
 Representation and processing of semantic/pragmatic information in language, quantification, logic in language, language acquisition, linguistic theory in psycholinguistics
 
