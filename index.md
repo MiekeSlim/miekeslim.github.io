@@ -8,4 +8,4 @@ My PhD research is funded by the Research Foundation - Flanders (FWO). Before co
 
 ## [Research](https://miekeslim.github.io/research)       
 ## [CV](https://miekeslim.github.io/CV)              
-## [Publications and output](https://miekeslim.github.io/Publications)      
+## [Publications and output](https://miekeslim.github.io/publications)      
