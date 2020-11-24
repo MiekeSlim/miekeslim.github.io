@@ -37,8 +37,8 @@ _Renewed in 2020_
 
 ### Honours and awards
 **2019: Best student talk**. 
-Architecture and Mechanisms of Language Processing (AMLaP) conference - Moscow 
+Architecture and Mechanisms of Language Processing (AMLaP) conference - Moscow.      
 **2018: College Prize**.  
-St.John’s College, University of Cambridge
+St.John’s College, University of Cambridge.  
 **2018: Elected as scholar of St.John’s College**. 
-St.John’s College, University of Cambridge
+St.John’s College, University of Cambridge. 
