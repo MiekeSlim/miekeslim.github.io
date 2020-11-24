@@ -2,10 +2,10 @@
 
 # Don't mind the mess, this page is still under construction.
 
-## Research interests
+### Research interests
 Representation and processing of semantic/pragmatic information in language, quantification, logic in language, language acquisition, linguistic theory in psycholinguistics
 
-## Education
+### Education
 **2018 - 2022 (expected): Doctor of Philosophy**   
 Experimental Psychology        
 Ghent University
@@ -18,7 +18,7 @@ University of Cambridge
 Dutch Language and Culture  
 University of Groningen  
 
-## Grants
+### Grants
 **2020: Fulbright PhD travel grant**  
 Fulbright Commission (Fulbright The Netherlands)  
 *Grant to fund a research visit at Harvard University (USA)*. 
