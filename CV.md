@@ -4,8 +4,8 @@
 Representation and processing of semantic/pragmatic information in language, quantification, logic in language, language acquisition, linguistic theory in psycholinguistics
 
 ## Education
-**2018 - 2022 (expected): Doctor of Philosophy**. 
-Experimental Psychology.    
+**2018 - 2022 (expected): Doctor of Philosophy**.   
+Experimental Psychology.      
 Ghent University
   
 **2017 - 2018: Master of Philosophy**. (*Graduated with distinction*)
