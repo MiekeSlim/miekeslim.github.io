@@ -17,51 +17,51 @@ Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Logical representati
 ### (Selected) conference presentations
 **2021** 
 
-Presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by the University of Pennsylvania, USA)
-'Are logical representations quantifier-specific? Evidence from priming for a non-quantifier-specific representation of scope'
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
+Presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by the University of Pennsylvania, USA)\
+'Are logical representations quantifier-specific? Evidence from priming for a non-quantifier-specific representation of scope'\
+Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker\
 _In preparation_
 
 **2020** 
 
-Poster presentation: _Experiments in Linguistic Meaning_ (Virtual conference hosted by the University of Pennsylvania, USA)
-'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'
+Poster presentation: _Experiments in Linguistic Meaning_ (Virtual conference hosted by the University of Pennsylvania, USA)\
+'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'\
 Mieke Sarah Slim and Napoleon Katsos
 
-Poster presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by UMass Amherst, USA)
-'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'
+Poster presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by UMass Amherst, USA)\
+'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'\
 Mieke Sarah Slim and Napoleon Katsos
 
 **2019**
 
-Talk: _Architecture and Mechanisms of Language Processing_ (Moscow, Russia)
-'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'  
+Talk: _Architecture and Mechanisms of Language Processing_ (Moscow, Russia)\
+'Monolingual and Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
-Talk: _Conference on Multilingualism_ (Leiden, The Netherlands)
-'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'  
+Talk: _Conference on Multilingualism_ (Leiden, The Netherlands)\
+'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
-Talk: _TABUDag_ (Groningen, The Netherlands) 
-'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'  
+Talk: _TABUDag_ (Groningen, The Netherlands)\ 
+'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
-Talk: _Reasoning, Argumentation and Logic in Natural Language: Experiments and Models_ (Bochum, Germany)
-'Priming of Logical Representations in Dutch and French Language Comprehension'
+Talk: _Reasoning, Argumentation and Logic in Natural Language: Experiments and Models_ (Bochum, Germany)\
+'Priming of Logical Representations in Dutch and French Language Comprehension'\
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
 **2018**
 
-Talk: _The Pragmatics of Quantifiers: Implicature and Presupposition – Experiment and Theory_ (Berlin, Germany)
-'Bilingual Representations of the Logical Form' 
+Talk: _The Pragmatics of Quantifiers: Implicature and Presupposition – Experiment and Theory_ (Berlin, Germany)\
+'Bilingual Representations of the Logical Form'\
 Mieke Sarah Slim and Napoleon Katsos
 
 **2017**
 
-Poster presentation: _Conference on Multilingualism_ (Groningen, The Netherlands) 
-'The Pirate and the Knight, or He and He? Referential Choice in Dutch as an L2 by Native Danish Speakers' 
+Poster presentation: _Conference on Multilingualism_ (Groningen, The Netherlands)\ 
+'The Pirate and the Knight, or He and He? Referential Choice in Dutch as an L2 by Native Danish Speakers'\
 Mieke Sarah Slim and Petra Hendriks
  
-Poster presentation: _TABUDag_ (Groningen, The Netherlands) 
-'Disjunction under Negation: A Study with Dutch Pre-Schoolers' 
+Poster presentation: _TABUDag_ (Groningen, The Netherlands)\ 
+'Disjunction under Negation: A Study with Dutch Pre-Schoolers'\
 Mieke Sarah Slim, Jack Hoeksema and Angeliek Van Hout
