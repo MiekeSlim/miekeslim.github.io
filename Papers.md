@@ -42,7 +42,7 @@ Talk: _Conference on Multilingualism_ (Leiden, The Netherlands)\
 'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
-Talk: _TABUDag_ (Groningen, The Netherlands)\ 
+Talk: _TABU Dag_ (Groningen, The Netherlands)\ 
 'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
 
@@ -62,6 +62,6 @@ Poster presentation: _Conference on Multilingualism_ (Groningen, The Netherlands
 'The Pirate and the Knight, or He and He? Referential Choice in Dutch as an L2 by Native Danish Speakers'\
 Mieke Sarah Slim and Petra Hendriks
  
-Poster presentation: _TABUDag_ (Groningen, The Netherlands)\ 
+Poster presentation: _TABU Dag_ (Groningen, The Netherlands)\ 
 'Disjunction under Negation: A Study with Dutch Pre-Schoolers'\
 Mieke Sarah Slim, Jack Hoeksema and Angeliek Van Hout
