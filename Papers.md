@@ -1,4 +1,4 @@
-Papers and outreach
+Papers and presentations
 ===================
 
 ### Papers
