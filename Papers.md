@@ -4,11 +4,11 @@
 **2021** 
 
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Monolingual and bilingual logical representations of quantificational scope: Evidence from priming in
-language comprehension'. Published in _Journal of Memory and Language_ (doi: [https://doi.org/10.1016/j.jml.2020.104184])
+language comprehension'. Published in _Journal of Memory and Language_ (doi: <https://doi.org/10.1016/j.jml.2020.104184>).
 
 **Under review** 
 
-Mieke Sarah Slim and Napoleon Katsos. 'Why all Estonians are not like Englishmen: Evidence from cross-linguistic influenceand priming on the shared nature of bilingual logical representations'. Preprint available at: [https://psyarxiv.com/tv2w8/]
+Mieke Sarah Slim and Napoleon Katsos. 'Why all Estonians are not like Englishmen: Evidence from cross-linguistic influenceand priming on the shared nature of bilingual logical representations'. Preprint available at: <https://psyarxiv.com/tv2w8/>.
 
 **In preparation**
 
