@@ -1,7 +1,7 @@
 Papers and outreach
 ===================
 
-### Publications
+### Papers
 **2021** 
 
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Monolingual and bilingual logical representations of quantificational scope: Evidence from priming in
