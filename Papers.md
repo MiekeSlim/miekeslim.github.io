@@ -15,6 +15,9 @@ Mieke Sarah Slim and Napoleon Katsos. 'Why all Estonians are not like Englishmen
 Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Logical representations are not quantifier-specific: Adaptive learning and generalization in the assignment of scope'. Please [email me](mailto:mieke.slim@ugent.be) if you would like to receive a copy of the manuscript once it's finished (which should be soon-ish). 
 
 ### (Selected) conference presentations
+
+*I'm currently working on uploading the presentation slides or posters on this website, if you would like to see the slides/poster for any of these presentations (and they are not uploaded yet), please [email me](mailto:mieke.slim@ugent.be).*
+
 **2021** 
 
 Presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by the University of Pennsylvania, USA)\
