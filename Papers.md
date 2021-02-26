@@ -9,7 +9,7 @@ language comprehension'. Published in _Journal of Memory and Language_ (doi: htt
 Mieke Sarah Slim and Napoleon Katsos. 'Why all Estonians are not like Englishmen: Evidence from cross-linguistic influenceand priming on the shared nature of bilingual logical representations'. Preprint available at: https://psyarxiv.com/tv2w8/
 
 **In preparation**
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Logical representations are not quantifier-specific: Adaptive learning and generalization in the assignment of scope'. Please [email me](mailto:mieke.slim@ugent.be) for a copy of the manuscript. 
+Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Logical representations are not quantifier-specific: Adaptive learning and generalization in the assignment of scope'. Please [email me](mailto:mieke.slim@ugent.be) for a copy of the manuscript (which should be finished soon). 
 
 ### (Selected) conference presentations
 **2021** 
