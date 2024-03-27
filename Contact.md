@@ -1,7 +1,7 @@
 Contact
 ===
 
-### Email: [mieke.slim@ugent.be](mailto:mieke.slim@ugent.be)
+### Email: [mieke.slim@mpi.nl](mailto:mieke.slim@mpi.nl)
 
 ### Twitter: [@SlimMieke](https://twitter.com/SlimMieke)
 
