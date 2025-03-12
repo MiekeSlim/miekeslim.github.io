@@ -1,11 +1,39 @@
 Papers and presentations
 ===================
 
+
+\item[] \textbf{2024}. \textbf{M.S. Slim}, M. Kandel, A. Yacovony and J. Snedeker\\
+\textit{Webcams as windows to the mind? A direct comparison between in-lab and web-based eye-tracking methods}.\\
+Research paper published in \textit{Open Mind} \\
+\textit{Note.} M.S. Slim and M. Kandel are joint first authors and made an equal contribution.
+
+\item[] \textbf{2024}. van Hout, A., Kisjes, J., Cochard, A., Gulás, A., Hoeksema, J., Pagliarini, E., \textbf{Slim, M.S.}, van Wijk, A., and Surányi, B.\\
+\textit{Prosodic disambiguation and the scope ambiguity of sentences with negation and disjunction in Dutch}.\\
+Research paper published in \textit{TABU Festschrift for Jack Hoeksema} 
+
+
+\item[] \textbf{2023}. \textbf{M.S. Slim}, P. Lauwers and R.J. Hartsuiker \\
+\textit{How abstract are logical representations? The role of verb semantics in representing quantifier scope}. \\
+Research paper published in \textit{Glossa Psycholinguistics} 
+
+\item[] \textbf{2023}. \textbf{M.S. Slim} and R.J. Hartsuiker\\
+\textit{Moving visual world experiments online? A web-based replication of Dijkgraaf, Hartsuiker, and Ducyk (2017) using PCIbex and WebGazer.js
+}. \\
+Research paper published in \textit{Behavior Research Methods} 
+
+
 ### Papers
+
+**2022** 
+
+X. Chen, R.J. Hartsuiker, M. Muylle, M.S. Slim, and C. Zhang. 'The Effect of Animacy on Structural Priming: A Replication of Bock, Loebell and Morey (1992)'. Published in _Journal of Memory and Language_ (doi: <https://doi.org/10.1016/j.jml.2022.104354>).
+*Note.* Author names are presented in alphabetical order; all authors made an equal contribution.
+
+
 
 **2021** 
 
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Monolingual and bilingual logical representations of quantificational scope: Evidence from priming in
+Slim M.S., Lauwers, P., and Hartsuiker, R.J. 'Monolingual and bilingual logical representations of quantificational scope: Evidence from priming in
 language comprehension'. Published in _Journal of Memory and Language_ (doi: <https://doi.org/10.1016/j.jml.2020.104184>).
 
 **Under review** 
