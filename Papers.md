@@ -4,6 +4,7 @@ Papers and presentations
 ### Papers
 
 **2024** 
+
 M.S. Slim, M. Kandel, A. Yacovony and J. Snedeker. 'Webcams as windows to the mind? A direct comparison between in-lab and web-based eye-tracking methods'. Published in _Open Mind_ (doi: <https://doi.org/10.1162/opmi_a_00171>).
 *Note.* M.S. Slim and M. Kandel are joint first authors and made an equal contribution.
 
