@@ -30,61 +30,10 @@ language comprehension'. Published in _Journal of Memory and Language_ (doi: <ht
 
 Mieke Sarah Slim and Napoleon Katsos. 'Why all Estonians are not like Englishmen: Evidence from cross-linguistic influenceand priming on the shared nature of bilingual logical representations'. Preprint available at: <https://psyarxiv.com/tv2w8/>.
 
-**In preparation**
+**In preparation and/or under review**
 
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker. 'Logical representations are not quantifier-specific: Adaptive learning and generalization in the assignment of scope'. Please [email me](mailto:mieke.slim@ugent.be) if you would like to receive a copy of the manuscript once it's finished (which should be soon-ish). 
+M.S. Slim, E. Tobyn, and C.F. Rowland. 'Quantifier-specific usage patterns shape learning – A corpus analysis on universal quantifiers in English and Dutch child-directed language'.
 
-### (Selected) conference presentations
+M.S. Slim, P. Lauwers and R.J. Hartsuiker. 'Revisiting the logic in language: The scope of *each* and *every* universal quantifier is alike after *all*'. Preprint available: <https://osf.io/preprints/psyarxiv/jgcxy>
 
-*I'm currently working on uploading the presentation slides or posters on this website, if you would like to see the slides/poster for any of these presentations (and they are not uploaded yet), please [email me](mailto:mieke.slim@ugent.be).*
-
-**2021** 
-
-Presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by the University of Pennsylvania, USA)\
-'Are logical representations quantifier-specific? Evidence from priming for a non-quantifier-specific representation of scope'\
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker\
-_In preparation_
-
-**2020** 
-
-Poster presentation: _Experiments in Linguistic Meaning_ (Virtual conference hosted by the University of Pennsylvania, USA)\
-'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'\
-Mieke Sarah Slim and Napoleon Katsos
-
-Poster presentation: _CUNY Human Sentence Processing Conference_ (Virtual conference hosted by UMass Amherst, USA)\
-'Are bilingual logical representations shared?: Priming scopally ambiguous sentences in English, Estonian, and Dutch'\
-Mieke Sarah Slim and Napoleon Katsos
-
-**2019**
-
-Talk: _Architecture and Mechanisms of Language Processing_ (Moscow, Russia)\
-'Monolingual and Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
-
-Talk: _Conference on Multilingualism_ (Leiden, The Netherlands)\
-'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
-
-Talk: _TABU Dag_ (Groningen, The Netherlands)\ 
-'Monolingualand Bilingual Logical Representations of Quantificational Scope: Evidence from Priming in Language Comprehension'\  
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
-
-Talk: _Reasoning, Argumentation and Logic in Natural Language: Experiments and Models_ (Bochum, Germany)\
-'Priming of Logical Representations in Dutch and French Language Comprehension'\
-Mieke Sarah Slim, Peter Lauwers, and Robert J. Hartsuiker
-
-**2018**
-
-Talk: _The Pragmatics of Quantifiers: Implicature and Presupposition – Experiment and Theory_ (Berlin, Germany)\
-'Bilingual Representations of the Logical Form'\
-Mieke Sarah Slim and Napoleon Katsos
-
-**2017**
-
-Poster presentation: _Conference on Multilingualism_ (Groningen, The Netherlands)\ 
-'The Pirate and the Knight, or He and He? Referential Choice in Dutch as an L2 by Native Danish Speakers'\
-Mieke Sarah Slim and Petra Hendriks
- 
-Poster presentation: _TABU Dag_ (Groningen, The Netherlands)\ 
-'Disjunction under Negation: A Study with Dutch Pre-Schoolers'\
-Mieke Sarah Slim, Jack Hoeksema and Angeliek Van Hout
+M.S. Slim and N. Katsos 'Not two monolinguals in one mind: Bilingual logical representations are shared despite cross-linguistic differences'. Preprint available: <https://psyarxiv.com/tv2w8/>.
